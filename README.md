@@ -7,6 +7,6 @@
 [語法](https://markdown.tw/)
 
 # 作業連結區
-[第二週](https://github.com/Tommy3883/111-2PL/blob/main/Untitled.ipynb)
+[第二週task](https://github.com/Tommy3883/111-2PL/blob/main/Untitled.ipynb)
 
 # 專題連結區
