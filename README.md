@@ -8,6 +8,7 @@
 
 # 作業連結區
 [第二週task1](https://github.com/Tommy3883/111-2PL/blob/main/task%201.ipynb)\
-[第三週作業一](https://github.com/Tommy3883/111-2PL/blob/main/HW%201.ipynb)
+[第三週作業一](https://github.com/Tommy3883/111-2PL/blob/main/HW%201.ipynb)\
+[第四週task2](https://github.com/Tommy3883/111-2PL/blob/main/task2.ipynb)
 
 # 專題連結區
