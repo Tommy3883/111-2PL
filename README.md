@@ -4,10 +4,10 @@
 系級:科技系二年級
 
 # 課程筆記區
-[語法](https://markdown.tw/)\
-[Kaggle](https://www.kaggle.com/)\
-[UCI](https://archive.ics.uci.edu/ml/index.php)\
-[Plotly](https://plotly.com/python/)
+[01 語法](https://markdown.tw/)\
+[02 Kaggle](https://www.kaggle.com/)\
+[03 UCI](https://archive.ics.uci.edu/ml/index.php)\
+[04 Plotly](https://plotly.com/python/)
 
 # 作業連結區
 [第二週task1](https://github.com/Tommy3883/111-2PL/blob/main/task%201.ipynb)\
