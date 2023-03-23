@@ -8,7 +8,8 @@
 [02 Kaggle](https://www.kaggle.com/)\
 [03 UCI](https://archive.ics.uci.edu/ml/index.php)\
 [04 Plotly](https://plotly.com/python/)\
-[05 json](https://jsoncrack.com/editor)
+[05 json](https://jsoncrack.com/editor)\
+[06 政府資料開放平台](https://data.gov.tw/)
 
 # 作業連結區
 [第二週task1](https://github.com/Tommy3883/111-2PL/blob/main/task%201.ipynb)\
