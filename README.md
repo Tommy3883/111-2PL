@@ -13,11 +13,16 @@
 [07 Regexr](https://regexr.com/)
 
 # 作業連結區
+**task&practice**\
 [第二週task1](https://github.com/Tommy3883/111-2PL/blob/main/task%201.ipynb)\
-[第三週作業一](https://github.com/Tommy3883/111-2PL/blob/main/HW%201.ipynb)\
 [第四週task2](https://github.com/Tommy3883/111-2PL/blob/main/task2.ipynb)\
 [第五週practice](https://github.com/Tommy3883/111-2PL/blob/main/practice0323-1.ipynb)\
+[第六週task3](https://github.com/Tommy3883/111-2PL/blob/main/task%203.ipynb)\
+[第七週失敗的practice](https://github.com/Tommy3883/111-2PL/blob/main/practice%204.ipynb)
+
+<strong>homework</strong>\
+[第三週作業一](https://github.com/Tommy3883/111-2PL/blob/main/HW%201.ipynb)\
 [第五週作業二](https://github.com/Tommy3883/111-2PL/blob/main/HW%202.ipynb)\
-[第六週task3](https://github.com/Tommy3883/111-2PL/blob/main/task%203.ipynb)
+[第七週作業三](https://github.com/Tommy3883/111-2PL/blob/main/HW%203.ipynb)
 
 # 專題連結區
