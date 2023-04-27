@@ -24,7 +24,7 @@
 第三週 [作業一](https://github.com/Tommy3883/111-2PL/blob/main/HW%201.ipynb)\
 第五週 [作業二](https://github.com/Tommy3883/111-2PL/blob/main/HW%202.ipynb)\
 第七週 [作業三](https://github.com/Tommy3883/111-2PL/blob/main/HW%203.ipynb)\
-第九週 作業四\
+第九週 作業四 **一起來看LE SSERAFIM第二次回歸在PTT上的迴響吧❤**\
 01 [文字探勘](https://github.com/Tommy3883/111-2PL/blob/main/HW%204.ipynb)\
 02 [MIDIUM](https://medium.com/@chiting630/%E4%B8%80%E8%B5%B7%E8%B7%9Fle-sserafim-antifragile-a148bf3b5df6)
 
