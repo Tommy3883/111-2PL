@@ -25,8 +25,8 @@
 第五週 [作業二](https://github.com/Tommy3883/111-2PL/blob/main/HW%202.ipynb)\
 第七週 [作業三](https://github.com/Tommy3883/111-2PL/blob/main/HW%203.ipynb)\
 第九週 作業四\
-[文字探勘](https://github.com/Tommy3883/111-2PL/blob/main/HW%204.ipynb)\
-[MIDIUM]()
+01 [文字探勘](https://github.com/Tommy3883/111-2PL/blob/main/HW%204.ipynb)\
+02 [MIDIUM]()
 
 # 專題連結區
 01 [黑克松想法](https://docs.google.com/presentation/d/1aVeA_cQ9iyXf1Y5Oe_A8_S0TcEa0GeFad-joNjwThJ4/edit?usp=sharing)
