@@ -26,7 +26,7 @@
 第七週 [作業三](https://github.com/Tommy3883/111-2PL/blob/main/HW%203.ipynb)\
 第九週 作業四\
 01 [文字探勘](https://github.com/Tommy3883/111-2PL/blob/main/HW%204.ipynb)\
-02 [MIDIUM]()
+02 [MIDIUM](https://medium.com/@chiting630/%E4%B8%80%E8%B5%B7%E8%B7%9Fle-sserafim-antifragile-a148bf3b5df6)
 
 # 專題連結區
 01 [黑克松想法](https://docs.google.com/presentation/d/1aVeA_cQ9iyXf1Y5Oe_A8_S0TcEa0GeFad-joNjwThJ4/edit?usp=sharing)
