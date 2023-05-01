@@ -33,7 +33,7 @@
 
 第九週 作業五 👉**一起來將作業四延伸，探討文本貢獻性吧❤**\
 01 [文本貢獻性分析](https://github.com/Tommy3883/111-2PL/blob/main/HW%205.ipynb)\
-02 [MIDIUM]()
+02 [MIDIUM](https://github.com/Tommy3883/111-2PL/blob/main/HW%205.ipynb)
 
 # 專題連結區
 01 [黑克松想法](https://docs.google.com/presentation/d/1aVeA_cQ9iyXf1Y5Oe_A8_S0TcEa0GeFad-joNjwThJ4/edit?usp=sharing)
