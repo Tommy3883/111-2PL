@@ -31,7 +31,7 @@
 01 [文字探勘](https://github.com/Tommy3883/111-2PL/blob/main/HW%204.ipynb)\
 02 [MIDIUM](https://medium.com/@chiting630/%E4%B8%80%E8%B5%B7%E8%B7%9Fle-sserafim-antifragile-a148bf3b5df6)
 
-第九週 作業五 👉**一起來將作業四延伸，探討文本貢獻性吧❤**\
+第九週 作業五 👉**一起來將作業四延伸，探討文本共現性吧✨**\
 01 [文本貢獻性分析](https://github.com/Tommy3883/111-2PL/blob/main/HW%205.ipynb)\
 02 [MIDIUM](https://github.com/Tommy3883/111-2PL/blob/main/HW%205.ipynb)
 
