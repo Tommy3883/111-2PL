@@ -33,7 +33,7 @@
 
 第九週 作業五 👉**一起來將作業四延伸，探討文本共現性吧✨**\
 01 [文本貢獻性分析](https://drive.google.com/file/d/1DhlKbHeXI-zPF4xV9zjPiXg0U_JFvEtm/view?usp=share_link)\
-  由於檔案過大因此上面的檔案室是存在google雲端硬碟內!\
+  由於檔案過大因此上面的檔案是存在google雲端硬碟內!\
 02 [MIDIUM](https://github.com/Tommy3883/111-2PL/blob/main/HW%205.ipynb)
 
 # 專題連結區
