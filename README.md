@@ -31,5 +31,11 @@
 01 [文字探勘](https://github.com/Tommy3883/111-2PL/blob/main/HW%204.ipynb)\
 02 [MIDIUM](https://medium.com/@chiting630/%E4%B8%80%E8%B5%B7%E8%B7%9Fle-sserafim-antifragile-a148bf3b5df6)
 
+第九週 作業五 👉**一起來將作業四延伸，探討文本共現性吧✨**\
+01 [文本貢獻性分析](https://drive.google.com/file/d/1iuxOuBm77j-EnygNMrCl8WQGws6WvM6m/view?usp=share_link)\
+  由於檔案過大因此上面的檔案是存在google雲端硬碟內!(可能較為完整)\
+  [tag here](https://nbviewer.org/github/Tommy3883/111-2PL/blob/main/HW%205.ipynb) 而這是用nbviewer所顯示的樣貌(有些東西有#掉或刪除，讓檔案變小一點)\
+02 [MIDIUM](https://medium.com/@chiting630/%E7%95%99%E8%A8%80%E5%85%B1%E7%8F%BE%E6%80%A7%E5%88%86%E6%9E%90-2617fe5986c8)
+
 # 專題連結區
 01 [黑克松想法](https://docs.google.com/presentation/d/1aVeA_cQ9iyXf1Y5Oe_A8_S0TcEa0GeFad-joNjwThJ4/edit?usp=sharing)
