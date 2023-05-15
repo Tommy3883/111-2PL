@@ -43,5 +43,5 @@
    #[筆電資料_檔案們](https://github.com/Tommy3883/111-2PL/commit/f1ff66390d6f8267c47da5412aba18e771c53b78)\
 03 #[遊戲資料_程式碼](https://github.com/Tommy3883/111-2PL/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C_%E7%88%ACsteam.ipynb)
    #[遊戲資料_csv](https://github.com/Tommy3883/111-2PL/blob/main/requirements.csv)\
-04 [黑克嵩進度報告](https://docs.google.com/presentation/d/1NH_Jkm2BvpCWundVegA6l0v5zoY_jk1R9-YmdlMiop8/edit?usp=sharing)\
+04 [黑克松進度報告](https://docs.google.com/presentation/d/1NH_Jkm2BvpCWundVegA6l0v5zoY_jk1R9-YmdlMiop8/edit?usp=sharing)\
 05 [Figma](https://drive.google.com/file/d/1wKM6a4VCTHSM_6x3MFPIq-c8lHuGEyFQ/view?usp=sharing)
