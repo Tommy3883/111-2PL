@@ -38,4 +38,10 @@
 02 [MIDIUM](https://medium.com/@chiting630/%E7%95%99%E8%A8%80%E5%85%B1%E7%8F%BE%E6%80%A7%E5%88%86%E6%9E%90-2617fe5986c8)
 
 # 專題連結區
-01 [黑克松想法](https://docs.google.com/presentation/d/1aVeA_cQ9iyXf1Y5Oe_A8_S0TcEa0GeFad-joNjwThJ4/edit?usp=sharing)
+01 [黑克松想法](https://docs.google.com/presentation/d/1aVeA_cQ9iyXf1Y5Oe_A8_S0TcEa0GeFad-joNjwThJ4/edit?usp=sharing)\
+02 #[筆電資料_程式碼](https://github.com/Tommy3883/111-2PL/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C_%E7%88%AC%E7%AD%86%E9%9B%BB.ipynb)
+   #[筆電資料_檔案們](https://github.com/Tommy3883/111-2PL/commit/f1ff66390d6f8267c47da5412aba18e771c53b78)\
+03 #[遊戲資料_程式碼](https://github.com/Tommy3883/111-2PL/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C_%E7%88%ACsteam.ipynb)
+   #[遊戲資料_檔案們](https://github.com/Tommy3883/111-2PL/commit/402a628ccbcee9374e5515618050e37501fb4c11)\
+04 [黑克嵩進度報告](https://docs.google.com/presentation/d/1NH_Jkm2BvpCWundVegA6l0v5zoY_jk1R9-YmdlMiop8/edit?usp=sharing)\
+05 [Figma](https://drive.google.com/file/d/1wKM6a4VCTHSM_6x3MFPIq-c8lHuGEyFQ/view?usp=sharing)
