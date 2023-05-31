@@ -46,4 +46,5 @@
 04 [黑克松進度報告](https://docs.google.com/presentation/d/1q1wesye6x9aAnj-lFXysBWonOwu_rq33nPpaZbP6Wug/edit?usp=sharing)\
 05 [Figma_first version](https://drive.google.com/file/d/1wKM6a4VCTHSM_6x3MFPIq-c8lHuGEyFQ/view?usp=sharing)\
 06 [Figma_second version](https://drive.google.com/file/d/1kWDHw0-1n4jrfxQKubb3rL1U1P4dMFGr/view?usp=share_link)\
-07 [黑克松報告簡報檔](https://docs.google.com/presentation/d/15N4idj9RxlUmzqvp4sIwTwoMVT-WmCH5MqQFcq6TWjI/edit?usp=sharing)
+07 [黑克松報告簡報檔](https://docs.google.com/presentation/d/15N4idj9RxlUmzqvp4sIwTwoMVT-WmCH5MqQFcq6TWjI/edit?usp=sharing)\
+08 黑克松專題報告影片
