@@ -44,4 +44,6 @@
 03 #[遊戲資料_程式碼](https://github.com/Tommy3883/111-2PL/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C_%E7%88%ACsteam.ipynb)
    #[遊戲資料_csv](https://github.com/Tommy3883/111-2PL/blob/main/requirements.csv)\
 04 [黑克松進度報告](https://docs.google.com/presentation/d/1NH_Jkm2BvpCWundVegA6l0v5zoY_jk1R9-YmdlMiop8/edit?usp=sharing)\
-05 [Figma](https://drive.google.com/file/d/1wKM6a4VCTHSM_6x3MFPIq-c8lHuGEyFQ/view?usp=sharing)
+05 [Figma_first version](https://drive.google.com/file/d/1wKM6a4VCTHSM_6x3MFPIq-c8lHuGEyFQ/view?usp=sharing)\
+06 [Figma_second version](https://drive.google.com/file/d/1kWDHw0-1n4jrfxQKubb3rL1U1P4dMFGr/view?usp=share_link)\
+07 [黑克松報告簡報檔](https://docs.google.com/presentation/d/15N4idj9RxlUmzqvp4sIwTwoMVT-WmCH5MqQFcq6TWjI/edit?usp=sharing)
