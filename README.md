@@ -49,7 +49,7 @@
 
 **智選電腦專案分享**\
 07 [黑克松程式碼及相關資料1](https://github.com/Tommy3883/111-2PL/commit/64b78806a78909170c85c2f69a20e287b7a9214c)\
-07 [黑克松繩是馬及相關資料2](https://github.com/xuanhsu/111-2-programming/blob/main/final/final%20program.ipynb)\
+07 [黑克松程式碼及相關資料2](https://github.com/xuanhsu/111-2-programming/blob/main/final/final%20program.ipynb)\
 08 [黑克松報告簡報檔](https://docs.google.com/presentation/d/15N4idj9RxlUmzqvp4sIwTwoMVT-WmCH5MqQFcq6TWjI/edit?usp=sharing)\
 09 [Figma使用呈現](https://www.figma.com/proto/fXlMUEjgyQw9yBez6JfmIK/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C?type=design&node-id=21-250&scaling=scale-down&page-id=0%3A1&starting-point-node-id=21%3A250&show-proto-sidebar=1)\
 10 [黑克松專題報告影片](https://www.youtube.com/watch?v=coiTAnJGE50) 👉**FINAL PROJECT💻🎞**
