@@ -45,7 +45,7 @@
    #[遊戲資料_csv](https://github.com/Tommy3883/111-2PL/blob/main/requirements.csv)\
 04 [黑克松進度報告](https://docs.google.com/presentation/d/1q1wesye6x9aAnj-lFXysBWonOwu_rq33nPpaZbP6Wug/edit?usp=sharing)\
 05 [Figma_first version](https://drive.google.com/file/d/1wKM6a4VCTHSM_6x3MFPIq-c8lHuGEyFQ/view?usp=sharing)\
-06 [Figma_second version](https://drive.google.com/file/d/1kWDHw0-1n4jrfxQKubb3rL1U1P4dMFGr/view?usp=share_link)\
+06 [Figma_second version](https://drive.google.com/file/d/1kWDHw0-1n4jrfxQKubb3rL1U1P4dMFGr/view?usp=share_link)
 
 **智選電腦專案分享**\
 07 [黑克松程式碼及相關資料1](https://github.com/Tommy3883/111-2PL/commit/64b78806a78909170c85c2f69a20e287b7a9214c)\
