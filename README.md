@@ -42,6 +42,12 @@
 02 #[筆電資料_程式碼](https://github.com/Tommy3883/111-2PL/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C_%E7%88%AC%E7%AD%86%E9%9B%BB.ipynb)
    #[筆電資料_檔案們](https://github.com/Tommy3883/111-2PL/commit/f1ff66390d6f8267c47da5412aba18e771c53b78)\
 03 #[遊戲資料_程式碼](https://github.com/Tommy3883/111-2PL/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C_%E7%88%ACsteam.ipynb)
-   #[遊戲資料_檔案們](https://github.com/Tommy3883/111-2PL/commit/402a628ccbcee9374e5515618050e37501fb4c11)\
-04 [黑克嵩進度報告](https://docs.google.com/presentation/d/1NH_Jkm2BvpCWundVegA6l0v5zoY_jk1R9-YmdlMiop8/edit?usp=sharing)\
-05 [Figma](https://drive.google.com/file/d/1wKM6a4VCTHSM_6x3MFPIq-c8lHuGEyFQ/view?usp=sharing)
+   #[遊戲資料_csv](https://github.com/Tommy3883/111-2PL/blob/main/requirements.csv)\
+04 [黑克松進度報告](https://docs.google.com/presentation/d/1q1wesye6x9aAnj-lFXysBWonOwu_rq33nPpaZbP6Wug/edit?usp=sharing)\
+05 [Figma_first version](https://drive.google.com/file/d/1wKM6a4VCTHSM_6x3MFPIq-c8lHuGEyFQ/view?usp=sharing)\
+06 [Figma_second version](https://drive.google.com/file/d/1kWDHw0-1n4jrfxQKubb3rL1U1P4dMFGr/view?usp=share_link)\
+
+**智選電腦專案分享**\
+07 [黑克松報告簡報檔](https://docs.google.com/presentation/d/15N4idj9RxlUmzqvp4sIwTwoMVT-WmCH5MqQFcq6TWjI/edit?usp=sharing)\
+08 [Figma使用呈現](https://www.figma.com/proto/fXlMUEjgyQw9yBez6JfmIK/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C?type=design&node-id=21-250&scaling=scale-down&page-id=0%3A1&starting-point-node-id=21%3A250&show-proto-sidebar=1)\
+09 [黑克松專題報告影片](https://www.youtube.com/watch?v=coiTAnJGE50) 👉**FINAL PROJECT💻🎞**
